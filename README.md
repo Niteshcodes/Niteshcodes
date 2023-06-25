@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteshcodes
 - 👀 I’m interested in web and software development 
-- 🌱 I’m currently learning Full stack MERN 
+- 🌱 I’m a Full stack devloper (MERN)
 - 💞️ I love to code 
 - 📫 Never leave coding 
 
