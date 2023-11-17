@@ -1,49 +1,51 @@
-<h2 align="left">Hi 👋! My name is Nitesh and I'm a Full Stack Developer from India.</h2>
+# Nitesh Upadhayay - Full Stack Developer
 
-###
+Hello there! I'm Nitesh Upadhayay, a Full Stack Developer with expertise in both frontend and backend technologies. Let's delve into my skills in both areas:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 Frontend Skills
 
-###
+### Framework
+- **React:** Proficient in building dynamic and responsive web applications using React.
 
-<a href="https://app.daily.dev/niteshcodes"><img src="https://api.daily.dev/devcards/8f52f24f39ca4077ad0b661c7c4722f2.png?r=sec" width="400" alt="NITESH UPADHAYAY's Dev Card"/></a>
+### UI Libraries
+- **Tailwind CSS:** Utilize Tailwind CSS for efficient and customizable styling.
+- **Material-UI (MUI):** Experience in integrating and customizing components from Material-UI.
+- **Shadcn UI:** Familiar with Shadcn UI for creating modern and visually appealing UIs.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+### Optional Libraries
+- **Framer Motion:** Capable of incorporating animations and interactive elements using Framer Motion.
+- **Zod/Joi/Valibot:** Experienced in schema validation libraries for data integrity and consistency.
 
-###
+### Additional Skills
+- **Next.js:** Knowledgeable about building server-side rendered React applications for enhanced performance.
+- **React-hook-form:** Proficient in handling forms efficiently using React-hook-form.
+- **PWA (Progressive Web App):** Familiarity with building Progressive Web Apps for an enhanced user experience.
+- **Tanstack-table:** Skilled in utilizing Tanstack-table for creating feature-rich and responsive tables.
+- **Redux Toolkit:** Experience with state management using Redux Toolkit.
+- **React Query:** Proficient in using React Query for efficient data fetching and management.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 💻 Backend Skills
 
-###
+### Frameworks
+- **Express.js:** Proficient in building scalable and robust backend applications using Express.js.
+- **Nest JS:** Familiarity with Nest JS for creating modular and maintainable server-side applications.
+
+### Databases
+- **MySQL:** Experience in designing and managing relational databases using MySQL.
+- **MSSQL:** Proficient in working with Microsoft SQL Server databases.
+- **MongoDB:** Skilled in utilizing MongoDB for efficient NoSQL database solutions.
+
+### ORM
+- **Mongoose:** Proficient in using Mongoose as an Object-Document Mapper for MongoDB.
+- **Sequelize:** Experienced in using Sequelize as an ORM for relational databases.
+
+## 💼 Projects
+Explore my repositories to see examples of projects where I've implemented these technologies and libraries.
+
+## 🌱 What's Next
+I am open to exploring new technologies and frameworks to enhance my skill set. Continuous learning is a part of my journey, and I am eager to stay updated with the latest trends in full-stack development.
+
+## 📬 Let's Connect
+Feel free to connect with me if you have any questions, opportunities, or just want to discuss full-stack development. You can reach me via [email](mailto:upadhayaynitesh94@gmail.com) or connect on [[LinkedIn](https://www.linkedin.com/in/nitesh-upadhayay)](https://www.linkedin.com/in/niteshcodes/).
+
+Thank you for checking out my full-stack skill set! Let's build robust and innovative applications together. 🚀
