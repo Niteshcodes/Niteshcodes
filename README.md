@@ -6,6 +6,8 @@
 
 ###
 
+<a href="https://app.daily.dev/niteshcodes"><img src="https://api.daily.dev/devcards/8f52f24f39ca4077ad0b661c7c4722f2.png?r=sec" width="400" alt="NITESH UPADHAYAY's Dev Card"/></a>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
