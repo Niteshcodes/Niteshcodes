@@ -1,4 +1,4 @@
-# Nitesh Upadhayay - Full Stack Developer
+# Nitesh Upadhayay - Full Stack Developer ![stargazers_count](https://img.shields.io/github/stars/Niteshcodes) 
 
 Hello there! I'm Nitesh Upadhayay, a Full Stack Developer with expertise in both frontend and backend technologies. Let's delve into my skills in both areas:
 
