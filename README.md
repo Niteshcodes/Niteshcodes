@@ -46,6 +46,6 @@ Explore my repositories to see examples of projects where I've implemented these
 I am open to exploring new technologies and frameworks to enhance my skill set. Continuous learning is a part of my journey, and I am eager to stay updated with the latest trends in full-stack development.
 
 ## 📬 Let's Connect
-Feel free to connect with me if you have any questions, opportunities, or just want to discuss full-stack development. You can reach me via [email](mailto:upadhayaynitesh94@gmail.com) or connect on [[LinkedIn](https://www.linkedin.com/in/nitesh-upadhayay)](https://www.linkedin.com/in/niteshcodes/).
+Feel free to connect with me if you have any questions, opportunities, or just want to discuss full-stack development. You can reach me via [Email](mailto:upadhayaynitesh94@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/niteshcodes/).
 
 Thank you for checking out my full-stack skill set! Let's build robust and innovative applications together. 🚀
